@@ -3,4 +3,11 @@
 
 -  [@ifatoki](https://github.com/ifatoki)
 
--  [@firesage12](https://github.com/firesage12)
+- [@chideraani](https://github.com/chideraani)
+
+- [@oghenetega](https://github.com/Tegadaniel)
+
+- [@akinyemi](https://github.com/akinyemi)
+
+-[@ChinonsoIke](https://github.com/ChinonsoIke)
+

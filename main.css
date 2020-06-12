@@ -9,3 +9,107 @@ body {
   margin: 0 auto;
   padding: 0 10px;
 }
+#about{
+	position: absolute;
+	width: 180px;
+	height: 59px;
+	left: 63px;
+	/*top: 1414px;*/
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	line-height: 59px;
+	text-align: center;
+	color: #2C2C2C;
+}
+.text{
+	position: absolute;
+	/*width: 1366px;*/
+	height: 228px;
+	left: 62px;
+	margin-top:120px;
+	/*top: 1489px;*/
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 30px;
+	line-height: 38px;
+	letter-spacing: 0.035em;
+	color: #343333;
+}
+.bt{
+	position: absolute;
+	width: 200px;
+	height: 50px;
+	left: 63px;
+	/*top: 1753px;*/
+	background: #D66939;
+	margin-top:380px;
+	font-family: Calibri;
+	font-weight: bold;
+	color: #000000;
+	font-size: 24px;
+	text-align: center;
+
+}
+.hero{
+	/* background-color: black; */
+	background-image: url("assets/hero-img.png");
+	mix-blend-mode: darken;
+	min-height: 600px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+.container{
+	width: auto;
+}
+.navbar-nav{
+	position: absolute;
+	top: 10px;
+	right: 16px;
+	overflow: hidden;
+	
+}
+
+.nav-item a {
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+.active{
+	color: #D66939;
+}
+
+.logo{
+	position: absolute;
+	top: 25px;
+	left: 50px;
+	max-width: 150px;
+	max-height: 70px;
+}
+  
+.welcome{
+	position: absolute;
+	top: 50%;
+	left: 35%;
+	text-align: center;
+	/* justify-content: center; */
+}
+
+.hero_text{
+	color: #fff;
+}
+
+.book{
+	border-color: #D66939;
+	color:#fff;
+	background-color: transparent;
+	size: 300px;
+}
