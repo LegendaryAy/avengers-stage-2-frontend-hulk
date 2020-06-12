@@ -9,5 +9,6 @@
 
 - [@akinyemi](https://github.com/akinyemi)
 
--[@ChinonsoIke](https://github.com/ChinonsoIke)
+- [@ChinonsoIke](https://github.com/ChinonsoIke)
 
+- [@firesage12](https://github.com/firesage12)
